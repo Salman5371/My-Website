@@ -8,12 +8,12 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest!",
-      photos: ["/Me/Ratargul.png", "/Me/Back.jpg", ],
+      photos: ["/Me/.png", "/Me/Back.jpg", ],
     },
     {
       id: 3,
       caption: "A serene moment by the lakeside at sunset.",
-      photos: ["/Me/Eid.jpg", "/Me/Crush.jpg"],
+      photos: ["/Me/.jpg", "/Me/Crush.jpg"],
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ const IMAGES = {
     {
       id: 4,
       caption: "Cherishing the simple joys of life.",
-      photos: ["/Me/Boat.jpg" ],
+      photos: ["/Me/.jpg" ],
     }
   ],
   projects: [
@@ -51,13 +51,13 @@ const IMAGES = {
     {
       id: 2,
       caption: " IEEE  Conference-2018",
-      photos: ["/Me/Conference.jpg"],
+      photos: ["/Me/.jpg"],
     },
     {
       id: 1,
       caption:
         "Cisco IT Essential Certificate!",
-      photos: ["/Me/Cisco_Certificate.jpg", ],
+      photos: ["/Me/.jpg", ],
     },
   ],
 };
