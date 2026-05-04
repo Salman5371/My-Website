@@ -8,23 +8,23 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest!",
-      photos: ["/Me/.png", "/Me/Back.jpg", ],
+      photos: ["/Me/Picture1.png", "/Me/Picture2.jpg", ],
     },
     {
       id: 3,
       caption: "A serene moment by the lakeside at sunset.",
-      photos: ["/Me/.jpg", "/Me/Crush.jpg"],
+      photos: ["/Me/Picture3.jpg", "/Me/Picture4.jpg"],
     },
     {
       id: 2,
       caption:
         "Unspoken understanding between captured in a single frame ❤️",
-      photos: ["/Me/.HEIC" ],
+      photos: ["/Me/Picture5.jpg" ],
     },
     {
       id: 4,
       caption: "Cherishing the simple joys of life.",
-      photos: ["/Me/.jpg" ],
+      photos: ["/Me/Picture6.jpg" ],
     }
   ],
   projects: [
