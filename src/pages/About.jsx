@@ -185,11 +185,11 @@ I am always interested in collaborating on research projects, exploring new tech
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>Shahid Buddhijibi Govt. College</strong> — Rajshahi
+                  <strong>Nageswari Govt. College</strong> — Nageswari,Kurigram
                   
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Rajshahi Board 
+                  Dinajpur Board 
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2021</p>
               </div>
@@ -230,11 +230,11 @@ I am always interested in collaborating on research projects, exploring new tech
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>Gotegari Shaheed Mamun Govt. High School and College</strong> — 
-                  Naogaon
+                  <strong>Nageshwari Doyamoyee Pilot Academy</strong> — 
+                  Nageshwari, Kurigram
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Rajshahi Board 
+                  Dinajpur Board 
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2019</p>
               </div>

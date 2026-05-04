@@ -53,7 +53,7 @@ export default function Resume() {
         >
           <div>
             <h3 style={{ fontSize: 24, color: "#00b4ff", marginBottom: 4 }}>
-              👨‍💻 MOHTASIM UR RAHMAN
+              👨‍💻 MD. SALMAN FARSHI
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
               4th Year Computer Science and Engineering student | <br></br>American International University-Bangladesh
@@ -62,7 +62,7 @@ export default function Resume() {
               📍 Uttara, Dhaka, Bangladesh
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              ✉️ mohtasimur2003@gmail.com | 📞 +88 01783753182
+              ✉️ salmanfarshi.sdk@gmail.com | 📞 +88 01516519665
             </p>
           </div>
 
@@ -112,12 +112,11 @@ export default function Resume() {
               <span style={{ color: "#aaa" }}>CGPA: --</span>
             </li>
             <li style={{ marginTop: 8 }}>
-              <strong>Shahid Buddhijibi Govt. College</strong> (Rajshahi
-              Board, 2021) <br />
+              <strong>Nageswari Govt. College</strong> (Dinajpur Board, 2021) <br />
               <span style={{ color: "#aaa" }}>GPA: 5.00</span>
             </li>
             <li style={{ marginTop: 8 }}>
-              <strong>Gotegari Shaheed Mamun Govt. High School and College</strong> (Rajshahi Board, 2019)
+              <strong>Nageshwari Doyamoyee Pilot Academy</strong> (Dinajpur Board, 2019)
               <br />
               <span style={{ color: "#aaa" }}>GPA: 5.00</span>
             </li>
