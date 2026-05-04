@@ -13,7 +13,7 @@ const IMAGES = {
     {
       id: 3,
       caption: "A serene moment by the lakeside at sunset.",
-      photos: ["/Me/Picture3.jpg", "/Me/Picture4.jpg"],
+      photos: ["/Me/Picture4.jpg"],
     },
     {
       id: 2,
@@ -24,7 +24,7 @@ const IMAGES = {
     {
       id: 4,
       caption: "Cherishing the simple joys of life.",
-      photos: ["/Me/Picture6.jpg" ],
+      photos: ["/Me/Picture3.jpg" ],
     }
   ],
   projects: [
