@@ -46,7 +46,7 @@ const IMAGES = {
     {
       id: 1,
       caption: " 🏆Seasonal Competition-2018!",
-      photos: ["/Me/Competition.jpg" ],
+      photos: ["/Me/.jpg" ],
     },
     {
       id: 2,
