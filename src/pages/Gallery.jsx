@@ -19,7 +19,7 @@ const IMAGES = {
       id: 2,
       caption:
         "Unspoken understanding between captured in a single frame ❤️",
-      photos: ["/Me/Bro.HEIC" ],
+      photos: ["/Me/.HEIC" ],
     },
     {
       id: 4,
